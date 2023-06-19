@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadLongTom
 - 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently learning Software Engineering (C# FS)
 - 💞️ I’m looking to collaborate on #undefined
 - 📫 How to reach me madlongtom9999@gmail.com
 
