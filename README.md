@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MadLongTom
 - 👀 I’m interested in EVERYTHING
-- 🌱 I’m currently learning Software Engineering (C# FS)
-- 💞️ I’m looking to collaborate on #undefined
-- 📫 How to reach me madlongtom9999@gmail.com
+- 🌱 I’m currently learning Software Engineering (.NET FS) and Reverse Engineering (Windows & Web)
+- 💞️ I’m looking to collaborate on Antiy
+- 📫 How to reach me ? => madlongtom9999@gmail.com
 
 <!---
 MadLongTom/MadLongTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
