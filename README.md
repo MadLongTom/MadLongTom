@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MadLongTom
+- 👋 Hi, I’m @MadLongTom. A Microsoft Learn Student Ambassador :)
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning Software Engineering (.NET FS) and Reverse Engineering (Windows & Web)
 - 💞️ I’m looking to collaborate on Microsoft
