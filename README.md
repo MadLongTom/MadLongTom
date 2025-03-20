@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MadLongTom. A Microsoft Learn Student Ambassador :)
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning Software Engineering (.NET FS) and Reverse Engineering (Windows & Web)
-- 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me ? => madlongtom9999@gmail.com
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=MadLongTom&show_icons=true&hide_border=true&count_private=true"/>
