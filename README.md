@@ -1,6 +1,6 @@
 - 👋 Hi, I’m **@MadLongTom**. A Beta Level **Microsoft Learn Student Ambassador** :)
-- 👨🏻‍💻 I'm now as a DevOps Intern **@Siemens** 
-- ✈️ Previously worked as SDE Intern **@ACCEL Flight Simulation** 
+- 👨🏻‍💻 I'm now working as SRE Intern @ **JD.COM**, Solution Architect Intern @ **Lianyourong**
+- ✈️ Previously worked as DevOps Intern **@Siemens** , SDE Intern **@ACCEL Flight Simulation** 
 - 💻 Tech Stack:
    - Languages: C#/.NET, Python, JavaScript
    - DevOps: Azure, Docker, Kubernetes, Jenkins
