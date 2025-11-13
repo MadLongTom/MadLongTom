@@ -2,8 +2,8 @@
 - 👨🏻‍💻 I'm now working as SRE Intern @ **JD.COM**, Solution Architect Intern @ **Lianyourong**
 - ✈️ Previously worked as DevOps Intern **@Siemens** , SDE Intern **@ACCEL Flight Simulation** 
 - 💻 Tech Stack:
-   - Languages: C#/.NET, Python, JavaScript
-   - DevOps: Azure, Docker, Kubernetes, Jenkins
+   - Languages: Go, Groovy, .NET(C#/VB.NET), Python, JavaScript
+   - DevOps: GitLab, Docker, Kubernetes, ArgoCD
    - Tools: Git, Wireshark, IDA Pro, Ghidra
 - 👀 I’m interested in EVERYTHING
 - 🌱 I’m currently learning:
