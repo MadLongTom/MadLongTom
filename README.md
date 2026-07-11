@@ -1,14 +1,10 @@
-- 👋 Hi, I’m **@MadLongTom**. A Beta Level **Microsoft Learn Student Ambassador** :)
-- 👨🏻‍💻 I'm now working as Recommendation Algorithm SRE @ **JD.COM**
-- ✈️ Previously worked as DevOps Intern **@Siemens**, Solution Architect Intern @ **Lianyourong**, SDE Intern **@ACCEL Flight Simulation** 
-- 💻 Tech Stack:
-   - Languages: Go, Groovy, .NET(C#/VB.NET), Python, JavaScript, Java
-   - DevOps: GitLab, Docker, Kubernetes, ArgoCD
-   - Tools: Git, Wireshark, IDA Pro, Ghidra
+- 👋 Hi, I’m **@MadLongTom**. Former Beta Level **Microsoft Learn Student Ambassador** :)
+- 👨🏻‍💻 I'm now working as Recommendation Algorithm SRE & PaC (Platform as Code) Engineer @ **JD.COM**
+- ✈️ Previously worked as DevOps Intern **@Siemens Digital Industry**, Solution Architect Intern @ **Lianyourong**, SDE Intern **@ACCEL Flight Simulation** 
 - 🌱 I’m currently learning:
-   - Software Engineering (.NET Full-Stack)
-   - Reverse Engineering (Windows & Web Assembly)
-   - Cloud Native Development (K8s + Service Mesh)
+   - Solution Architecture
+   - Reverse Engineering (Binary & Web)
+   - Cloud Native Development
 - 📫 How to reach me => 📧 madlongtom9999@gmail.com
 
 
