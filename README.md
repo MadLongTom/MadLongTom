@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@MadLongTom**. Former Beta Level **Microsoft Learn Student Ambassador** :)
-- 👨🏻‍💻 I'm now working as Recommendation Algorithm SRE & PaC (Platform as Code) Engineer @ **JD.COM**
+- 👨🏻‍💻 I'm now working as BG/BU Recommendation Algorithm SRE & PaC (Platform as Code) Engineer @ **JD.COM**
 - ✈️ Previously worked as DevOps Intern **@Siemens Digital Industry**, Solution Architect Intern @ **Lianyourong**, SDE Intern **@ACCEL Flight Simulation** 
 - 🌱 I’m currently learning:
    - Solution Architecture
